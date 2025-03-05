@@ -15,11 +15,13 @@ Key Features:
  6. Dark Mode: Toggle between light and dark themes.
 
 Technologies:
+
  • HTML/CSS: Structure and styling.
  
  • JavaScript​: Interactivity and data handling.
 
 Possible Add-Ons:
+
  • Backend for real-time data storage.
  
  • AI-powered recommendations.

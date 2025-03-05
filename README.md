@@ -2,7 +2,7 @@
 BingeMovie.web:    
 BingeMovie Ott
 
-Dec 2024 - PresentDec 2024 - Present
+Dec 2024 
 
 The BingeMovie OTT Platform is a web-based application built with HTML, CSS, and JavaScript. It provides users with an intuitive and responsive interface for exploring movies and TV shows.
 
@@ -16,11 +16,14 @@ Key Features:
 
 Technologies:
  • HTML/CSS: Structure and styling.
+ 
  • JavaScript​: Interactivity and data handling.
 
 Possible Add-Ons:
  • Backend for real-time data storage.
+ 
  • AI-powered recommendations.
+ 
  • Real-time reviews and comments.
 
 This project showcases modern frontend development skills and user-focused design.
